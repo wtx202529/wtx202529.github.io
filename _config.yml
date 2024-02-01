@@ -103,5 +103,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/wtx202529/wtx202529.github.io
-  branch: master
+  repo: https://github.com/wtx202529/wtx202529.github.io,master
